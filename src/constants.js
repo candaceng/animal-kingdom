@@ -43,6 +43,10 @@ export const EXPLORER_URL = 'https://explorer.blockstack.org'
 
 export const OTHER_KINGDOMS = [
     {
+      "app": "https://animalkingdoms.netlify.com",
+      "ruler": 'meepers.id.blockstack'
+    },
+    {
        "app": "https://animal-kingdom-1.firebaseapp.com",
        "ruler": "larry.id"
     },
